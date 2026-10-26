@@ -1,7 +1,7 @@
 if SHIELD_DACTYL_6X5_LEFT
 
     config ZMK_KEYBOARD_NAME
-        default "Dactyl 6x5 (BLE)"
+        default "Dactyl 6x5 BLE"
 
     config ZMK_SPLIT_ROLE_CENTRAL
         default y
