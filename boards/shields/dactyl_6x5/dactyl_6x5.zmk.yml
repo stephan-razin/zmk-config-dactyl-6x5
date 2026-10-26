@@ -1,0 +1,15 @@
+file_format: "1"
+id: dactyl_6x5
+name: dactyl_6x5
+type: shield
+url: https://github.com/stephan-razin/zmk-config-dactyl-6x5
+requires:
+  - pro_micro
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+siblings:
+  - dactyl_6x5_left
+  - dactyl_6x5_right

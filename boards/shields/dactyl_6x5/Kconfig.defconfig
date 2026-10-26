@@ -1,0 +1,32 @@
+if SHIELD_DACTYL_6X5_LEFT
+
+    config ZMK_KEYBOARD_NAME
+        default "Dactyl 6x5 (BLE)"
+
+    config ZMK_SPLIT_ROLE_CENTRAL
+        default y
+
+    config BT_MAX_CONN
+        default 2
+
+    config BT_MAX_PAIRED
+        default 2
+
+    config ZMK_SPLIT_BLE_CENTRAL_PERIPHERALS
+        default 1
+
+    config ZMK_STUDIO
+        default y
+    
+    config ZMK_STUDIO_LOCKING
+        default n
+
+endif
+
+
+if SHIELD_DACTYL_6X5_LEFT || SHIELD_DACTYL_6X5_RIGHT
+
+    config ZMK_SPLIT
+        default y
+
+endif
