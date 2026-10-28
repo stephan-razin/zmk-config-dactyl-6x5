@@ -72,11 +72,11 @@
             , <&key_physical_attrs 100 100  400 300  0   0   0>
             , <&key_physical_attrs 100 100  500 300  0   0   0>
             /* Thumb left */
-            , <&key_physical_attrs 100 125  480 550  40000   0   0>  // ctrl
-            , <&key_physical_attrs 100 100  450 400  20000   0   0>  // fn
-            , <&key_physical_attrs 100 100  570 450  40000   0   0>  // shift
-            , <&key_physical_attrs 125 100  650 550  40000   0   0>  // enter
-            , <&key_physical_attrs 125 100  570 630  40000   0   0>  // alt
+            , <&key_physical_attrs 100 125  480 550  40000   0   0>  /* ctrl */
+            , <&key_physical_attrs 100 100  450 400  20000   0   0>  /* fn */
+            , <&key_physical_attrs 100 100  570 450  40000   0   0>  /* shift */
+            , <&key_physical_attrs 125 100  650 550  40000   0   0>  /* enter */
+            , <&key_physical_attrs 125 100  570 630  40000   0   0>  /* alt */
             
             /* right */
             , <&key_physical_attrs 100 100 1200   0  0   0   0>
@@ -104,11 +104,11 @@
             , <&key_physical_attrs 100 100 1600 350  0   0   0>
             , <&key_physical_attrs 100 100 1700 350  0   0   0>
             /* Thumb right */
-            , <&key_physical_attrs 125 100  1130 630  -40000   0   0>  // alt
-            , <&key_physical_attrs 125 100  1050 550  -40000   0   0>  // enter
-            , <&key_physical_attrs 100 100  1130 450  -40000   0   0>  // shift
-            , <&key_physical_attrs 100 100  1250 400  -20000   0   0>  // fn
-            , <&key_physical_attrs 100 125  1220 550  -40000   0   0>  // ctrl
+            , <&key_physical_attrs 125 100  1130 630  -40000   0   0>  /* alt */
+            , <&key_physical_attrs 125 100  1050 550  -40000   0   0>  /* enter */
+            , <&key_physical_attrs 100 100  1130 450  -40000   0   0>  /* shift */
+            , <&key_physical_attrs 100 100  1250 400  -20000   0   0>  /* fn */
+            , <&key_physical_attrs 100 125  1220 550  -40000   0   0>  /* ctrl */
             ;
     };
 };
