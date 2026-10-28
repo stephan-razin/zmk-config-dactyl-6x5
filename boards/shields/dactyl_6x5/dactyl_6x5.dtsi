@@ -104,11 +104,11 @@
             , <&key_physical_attrs 100 100 1600 350  0   0   0>
             , <&key_physical_attrs 100 100 1700 350  0   0   0>
             /* Thumb right */
-            , <&key_physical_attrs 125 100 1025 510  0   0   0> /* alt */
-            , <&key_physical_attrs 125 100 1025 400  0   0   0> /* enter */
-            , <&key_physical_attrs 100 100 1150 400  0   0   0> /* shift */
-            , <&key_physical_attrs 100 100 1250 400  0   0   0> /* fn */
-            , <&key_physical_attrs 100 125 1150 500  0   0   0> /* ctrl */
+            , <&key_physical_attrs 125 100 1100 690 31500   0   0> /* alt */
+            , <&key_physical_attrs 125 100 1020 600 31500   0   0> /* enter */
+            , <&key_physical_attrs 100 100 1130 480 33000   0   0> /* shift */
+            , <&key_physical_attrs 100 100 1250 425 34500   0   0> /* fn */
+            , <&key_physical_attrs 100 125 1200 580 33000   0   0> /* ctrl */
             ;
     };
 };
