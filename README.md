@@ -59,3 +59,5 @@ Keyboard physical layout (RC)
       |    |    |    |    | 44 | 40 |                | 40 | 44 |    |    |    |    |
 
 ```
+
+![zmk-studio-layout](https://github.com/stephan-razin/zmk-config-dactyl-6x5/raw/main/img/zmk-studio-layout.png)
