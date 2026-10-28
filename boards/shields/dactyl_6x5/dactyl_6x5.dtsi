@@ -104,11 +104,11 @@
             , <&key_physical_attrs 100 100 1600 350  0   0   0>
             , <&key_physical_attrs 100 100 1700 350  0   0   0>
             /* Thumb right */
-            , <&key_physical_attrs 100 100 1150 550  0   0  0> /* alt */
+            , <&key_physical_attrs 100 100 1050 550  0   0  0> /* alt */
             , <&key_physical_attrs 100 100 1050 450  0   0  0> /* enter */
             , <&key_physical_attrs 100 100 1150 450  0   0  0> /* shift */
             , <&key_physical_attrs 100 100 1250 450  0   0  0> /* fn */
-            , <&key_physical_attrs 100 100 1250 550  0   0  0> /* ctrl */
+            , <&key_physical_attrs 100 100 1150 550  0   0  0> /* ctrl */
             ;
     };
 };
