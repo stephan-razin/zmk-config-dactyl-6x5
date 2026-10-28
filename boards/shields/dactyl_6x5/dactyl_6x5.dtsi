@@ -72,11 +72,11 @@
             , <&key_physical_attrs 100 100  400 300  0   0   0>
             , <&key_physical_attrs 100 100  500 300  0   0   0>
             /* Thumb left */
-            , <&key_physical_attrs 100 125  550 550  3000   0   0> /* ctrl */
+            , <&key_physical_attrs 100 125  500 550  3000   0   0> /* ctrl */
             , <&key_physical_attrs 100 100  450 400  1500   0   0> /* fn */
-            , <&key_physical_attrs 100 100  550 450  3000   0   0> /* shift */
-            , <&key_physical_attrs 125 100  650 500  3000   0   0> /* enter */
-            , <&key_physical_attrs 125 100  650 610  3000   0   0> /* alt */
+            , <&key_physical_attrs 100 100  560 420  3000   0   0> /* shift */
+            , <&key_physical_attrs 125 100  650 480  3000   0   0> /* enter */
+            , <&key_physical_attrs 125 100  600 610  3000   0   0> /* alt */
             
             /* right */
             , <&key_physical_attrs 100 100 1200   0  0   0   0>
