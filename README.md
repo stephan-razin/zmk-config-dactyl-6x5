@@ -61,3 +61,4 @@ Keyboard physical layout (RC)
 ```
 
 ![zmk-studio-layout](https://github.com/stephan-razin/zmk-config-dactyl-6x5/raw/main/img/zmk-studio-layout.png)
+Bluetooth reset: `` ` `` + `` \ ``

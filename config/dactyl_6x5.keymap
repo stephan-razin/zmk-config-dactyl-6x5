@@ -27,6 +27,16 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+        
+        combo_ble_clear {
+            timeout-ms = <50>;
+            bindings = <&bt BT_CLR_ALL>;
+            key-positions = <0 18>;            
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
@@ -54,7 +64,7 @@
                 &kp PSCRN       &trans          &trans          &trans             &trans            &trans
                 &kp KP_PLUS     &none           &kp N7          &kp N8             &kp N9            &none
                 &kp KP_MINUS    &none           &kp N4          &kp N5             &kp N6            &none
-                &bt BT_CLR_ALL  &none           &kp N1          &kp N2             &kp N3            &kp N0
+                &none           &none           &kp N1          &kp N2             &kp N3            &kp N0
                                 &trans          &trans          &trans             &trans            &trans
             
                 &trans          &trans          &trans          &trans             &trans            &kp F12
